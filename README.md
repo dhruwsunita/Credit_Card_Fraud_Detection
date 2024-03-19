@@ -10,4 +10,5 @@ For fraudulent transactions:
 
 For legitimate transactions:
 
-![credit1](https://github.com/dhruwsunita/Credit_Card_Fraud_Detection/assets/116973136/e443bee8-c571-496b-984a-4e58b56cf231)
+![legit](https://github.com/dhruwsunita/Credit_Card_Fraud_Detection/assets/116973136/4859256e-f7ba-4752-9cde-176a16198f86)
+
